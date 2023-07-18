@@ -1,4 +1,5 @@
 # Walmart Sales Data Analysis
+![Walmart_logo_transparent_png](https://user-images.githubusercontent.com/124501309/227757204-52e53fee-0d9b-48d7-b1d3-dba73a932715.png)
 
 ## About
 
